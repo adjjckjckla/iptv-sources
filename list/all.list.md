@@ -1752,4 +1752,4 @@
 | 1746 | [HD]龙华日韩 | epg.pw | <https://epg.pw/stream/9be8c74cea1e54e9531896a759e3b04c3457ca5a65632435b5d8af830f7780ae.ctv> |
 | 1747 | [BD]국악방송 | epg.pw | <https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 
-Updated at **Wed Jan 24 2024 11:00:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 24 2024 11:07:43 GMT+0000 (Coordinated Universal Time)**
